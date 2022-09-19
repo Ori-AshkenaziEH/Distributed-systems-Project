@@ -79,7 +79,7 @@ Git-https://git-scm.com/downloads.<br />
 ## Contact
 
 Ori Ashkenazi - oriash94@gmail.com.<br />
-Matan Cohen - <br />
+Matan Cohen - matan.cohen9895@gmail.com <br />
 Sapir Madar - <br />
 
 

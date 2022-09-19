@@ -6,6 +6,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
+
+Here is a distributed cloud chat system for millions of users on remote and different websites in the world managed by a server management application.
+
 ## About The Project
 
 ![image](https://user-images.githubusercontent.com/70447976/190982483-cf2112f2-66f8-4bfc-a616-4b71dac6c9e3.png)
@@ -17,7 +20,6 @@
 
 
 
-Here is a distributed cloud chat system for millions of users on remote and different websites in the world managed by a server management application.
 
 
 

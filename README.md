@@ -62,8 +62,6 @@ Run Zookeeper Server
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Download & install zookeeper, MongoDB,Python , Git.<br />
 Zookeeper - https://dlcdn.apache.org/zookeeper/zookeeper-3.8.0/apache-zookeeper-3.8.0-bin.tar.gz.<br />
 MongoDB - https://www.mongodb.com/try/download/community.<br />

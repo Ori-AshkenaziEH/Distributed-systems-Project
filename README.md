@@ -8,7 +8,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![image](https://user-images.githubusercontent.com/70447976/190982483-cf2112f2-66f8-4bfc-a616-4b71dac6c9e3.png)
+
+## Use Case
+
+![image](https://user-images.githubusercontent.com/70447976/190982559-96f6c3ae-0040-4c34-b675-723a3e4b0eb3.png)
+
+
+
 
 Here is a distributed cloud chat system for millions of users on remote and different websites in the world managed by a server management application.
 

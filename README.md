@@ -55,11 +55,11 @@ Run Zookeeper Server
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Download & install zookeeper, MongoDB,Python , Git.
-Zookeeper - https://dlcdn.apache.org/zookeeper/zookeeper-3.8.0/apache-zookeeper-3.8.0-bin.tar.gz.
-MongoDB - https://www.mongodb.com/try/download/community.
-Python-https://www.python.org/downloads/.
-Git-https://git-scm.com/downloads.
+1. Download & install zookeeper, MongoDB,Python , Git.<br />
+Zookeeper - https://dlcdn.apache.org/zookeeper/zookeeper-3.8.0/apache-zookeeper-3.8.0-bin.tar.gz.<br />
+MongoDB - https://www.mongodb.com/try/download/community.<br />
+Python-https://www.python.org/downloads/.<br />
+Git-https://git-scm.com/downloads.<br />
 2. Clone the repo
    ```sh
    git clone https://github.com/MatanCohen9895/Final-Project-DS.git
@@ -72,9 +72,9 @@ Git-https://git-scm.com/downloads.
 <!-- CONTACT -->
 ## Contact
 
-Ori Ashkenazi - oriash94@gmail.com.
-Matan Cohen - 
-Sapir Madar -
+Ori Ashkenazi - oriash94@gmail.com.<br />
+Matan Cohen - <br />
+Sapir Madar - <br />
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

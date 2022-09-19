@@ -33,7 +33,6 @@ Here is a distributed cloud chat system for millions of users on remote and diff
 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -72,7 +71,7 @@ Git-https://git-scm.com/downloads.<br />
    git clone https://github.com/MatanCohen9895/Final-Project-DS.git
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -84,7 +83,7 @@ Matan Cohen - <br />
 Sapir Madar - <br />
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 

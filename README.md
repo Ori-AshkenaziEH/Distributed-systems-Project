@@ -47,11 +47,13 @@ Run Zookeeper Server
   bin/.zkServer.sh
   ```
   
-  Start MongoDB
+  Start MongoDB with one DB
 * Start MongoDB
   ```sh
-  ----- Need To Add -----
+  brew services start mongodb-community@6.0
   ```
+  * You can Use Sharding
+  https://www.mongodb.com/docs/manual/sharding/
   
   Run Flask Servers
 * Run Flask

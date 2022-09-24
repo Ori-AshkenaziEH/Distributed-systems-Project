@@ -1,14 +1,36 @@
-#Flask Server
-
-#Imports
+# Server On FLask
 from flask import Flask, render_template, request, redirect, url_for, make_response, jsonify, session
 from MongoDB import db
+import signal
+from leader_election import LeaderElection
+from multiprocessing import Process
+import time
+
+def handler(signum, frame):
+    print("\nThe Server: " + le.znode_name + " is Offline.")
+    print("Ctrl-c was pressed.\nEXIT\n", end="", flush=True)
+    le.zk.stop()
+    le.zk.close()
+    exit(1)
+
+
+
 
 
 
 
 app = Flask(__name__)
 app.secret_key = "super secret key"
+le = LeaderElection('localhost:2181', 'AppChat', '/election')
+le.register()
+signal.signal(signal.SIGINT, handler)
+
+
+
+
+
+
+
 
 
 

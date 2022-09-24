@@ -103,6 +103,12 @@ Sapir Madar - Sapirmadar757@gmail.com <br />
 ![Screen Shot 2022-09-21 at 11 30 10](https://user-images.githubusercontent.com/70447976/191455651-a3af9095-bdbd-489e-96a6-02a63917d216.png)
 
 ## Chat Page
+<img width="404" alt="Screen Shot 2022-09-24 at 13 19 16" src="https://user-images.githubusercontent.com/70447976/192092738-2c350ace-76ad-4f0c-9998-2a4ac7f1641b.png">
+<img width="1227" alt="Screen Shot 2022-09-24 at 13 17 57" src="https://user-images.githubusercontent.com/70447976/192092718-0f8d8d7a-af6f-4da0-bb6f-28fca06ae640.png">
+
+## Leader app & leader election & Servers status
+<img width="391" alt="Screen Shot 2022-09-24 at 13 21 46" src="https://user-images.githubusercontent.com/70447976/192092829-e2bfa96f-1aaa-45fd-bd25-434381fd177e.png">
+<img width="547" alt="Screen Shot 2022-09-24 at 13 22 42" src="https://user-images.githubusercontent.com/70447976/192092830-85b60fb9-cd90-4cf6-b589-046558f435ee.png">
 
 
 

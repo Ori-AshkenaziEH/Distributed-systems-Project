@@ -44,7 +44,7 @@ Here is a distributed cloud chat system for millions of users on remote and diff
 Run Zookeeper Server
 * Run Zookeeper
   ```sh
-  bin/.zkServer.sh
+  bin/.zkServer.sh start
   ```
   
   Start MongoDB with one DB

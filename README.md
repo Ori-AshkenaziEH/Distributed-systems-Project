@@ -75,20 +75,6 @@ Git-https://git-scm.com/downloads.<br />
 
 
 
-
-
-<!-- CONTACT -->
-## Contact
-
-Ori Ashkenazi - 205389414 - oriash94@gmail.com.<br />
-Matan Cohen - 315823179 - matan.cohen9895@gmail.com <br />
-Sapir Madar - 207680554 - Sapirmadar757@gmail.com <br />
-
-
-
-
-
-
 <!-- IMAGES -->
 ## Leader App
 ![Screen Shot 2022-09-21 at 11 31 32](https://user-images.githubusercontent.com/70447976/191455840-174d02f9-5e8e-4a44-a3ba-678808cd3da6.png)
